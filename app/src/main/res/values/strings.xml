@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Personal Training App</string>
+    <string name="user_name">JDOE</string>
+    <string name="logged_in">Logged in: JDOE</string>
+    <string name="user_password">User Password (welcome1)</string>
+    <string name="unsuccessful">Unsuccessful Login</string>
+    <string name="successful">Successful Login</string>
+    <string name="customer_name">Name</string>
+    <string name="session">session</string>
+    <string name="new_customer">New Customer</string>
+    <string name="log_off">Log Off</string>
+    <string name="new_session">New Session</string>
+    <string name="submit_payment">Submit Payment</string>
+    <string name="session_completed">Session Completed</string>
+    <string name="workout">Workout</string>
+    <string name="excersise">Excersise</string>
+    <string name="sign_session">Sign for Completed Session</string>
+    <string name="return_button">Return To Customer List</string>
+
+</resources>
